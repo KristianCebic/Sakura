@@ -1,0 +1,50 @@
+section {
+    background-image: url(../../../assets/img/background.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    height: 1300px;
+    >h1{
+        color: red;
+        font-size: 50px;
+    }
+}
+
+.dishes {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    >img {
+        height: 300px;
+    }
+    >div{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.bowls{
+    width: 350px;
+    gap: 5px;
+    display: flex;
+    flex-direction: column;
+    color: #565151;
+    font-size: 18px;
+    font-weight: bold;
+    >div{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/styles.scss"],
+  "sourcesContent": ["*{\r\n    margin: 0;\r\n    box-sizing: border-box;\r\n    scroll-behavior: smooth;\r\n}\r\n\r\n/* raleway-regular - latin */\r\n@font-face {\r\n    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */\r\n    font-family: 'Raleway';\r\n    font-style: normal;\r\n    font-weight: 400;\r\n    src: url('./assets/fonts/raleway-v29-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */\r\n  }\r\n\r\n.fontRaleway {\r\n    font-family: 'Raleway';\r\n}\r\n"],
+  "mappings": "AAAA,SACI,EACA,WAAA,WACA,gBAAA,OAIJ,WACI,aAAA,KACA,YAAA,QACA,WAAA,OACA,YAAA,IACA,IAAA,wDAAA,OAAA,SAGJ,CAAA,YACI,YAAA",
+  "names": []
+}

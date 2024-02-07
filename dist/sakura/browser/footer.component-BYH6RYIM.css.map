@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/shared/footer/footer.component.scss"],
+  "sourcesContent": ["footer {\r\n    background-color: rgb(28,28,41);\r\n    color: white;\r\n    display: flex;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n    height: 100px;\r\n}\r\n\r\n.sakuraRamen{\r\n    display: flex;\r\n    align-items: center;\r\n    gap: 20px;\r\n    margin-left: 30px;\r\n}\r\n\r\n#impressum{\r\n    margin-right: 30px;\r\n}"],
+  "mappings": "AAAA,OACI,iBAAA,QACA,MAAA,KACA,QAAA,KACA,gBAAA,cACA,YAAA,OACA,OAAA,MAGJ,CAAA,YACI,QAAA,KACA,YAAA,OACA,IAAA,KACA,YAAA,KAGJ,CAAA,UACI,aAAA",
+  "names": []
+}

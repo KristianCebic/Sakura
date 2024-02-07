@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/main-content/our-menu/our-menu.component.scss"],
+  "sourcesContent": ["section {\r\n    background-image: url(../../../assets/img/background.jpg);\r\n    display: flex;\r\n    justify-content: center;\r\n    align-items: center;\r\n    flex-direction: column;\r\n    gap: 50px;\r\n    height: 1300px;\r\n    >h1{\r\n        color: red;\r\n        font-size: 50px;\r\n    }\r\n}\r\n\r\n.dishes {\r\n    width: 100%;\r\n    display: flex;\r\n    justify-content: center;\r\n    align-items: center;\r\n    gap: 30px;\r\n    >img {\r\n        height: 300px;\r\n    }\r\n    >div{\r\n        display: flex;\r\n        flex-direction: column;\r\n        gap: 10px;\r\n    }\r\n}\r\n\r\nh2 {\r\n    font-size: 40px;\r\n    font-weight: 700;\r\n}\r\n\r\n.bowls{\r\n    width: 350px;\r\n    gap: 5px;\r\n    display: flex;\r\n    flex-direction: column;\r\n    color: #565151;\r\n    font-size: 18px;\r\n    font-weight: bold;\r\n    >div{\r\n        width: 100%;\r\n        display: flex;\r\n        justify-content: space-between;\r\n    }\r\n}\r\n\r\n"],
+  "mappings": "AAAA,QACI,iBAAA,uCACA,QAAA,KACA,gBAAA,OACA,YAAA,OACA,eAAA,OACA,IAAA,KACA,OAAA,OACA,OAAA,CAAA,GACI,MAAA,IACA,UAAA,KAIR,CAAA,OACI,MAAA,KACA,QAAA,KACA,gBAAA,OACA,YAAA,OACA,IAAA,KACA,CANJ,MAMI,CAAA,IACI,OAAA,MAEJ,CATJ,MASI,CAAA,IACI,QAAA,KACA,eAAA,OACA,IAAA,KAIR,GACI,UAAA,KACA,YAAA,IAGJ,CAAA,MACI,MAAA,MACA,IAAA,IACA,QAAA,KACA,eAAA,OACA,MAAA,QACA,UAAA,KACA,YAAA,IACA,CARJ,KAQI,CAAA,IACI,MAAA,KACA,QAAA,KACA,gBAAA",
+  "names": []
+}

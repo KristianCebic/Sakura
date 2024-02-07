@@ -1,0 +1,48 @@
+nav {
+    width: 100%;
+    padding: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    >img {
+        width: 64px;
+        height: 64px;
+    }
+    >div {
+        width: 450px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 13px;
+        margin-right: 40px;
+        >a {
+            padding: 10px;
+            &:hover{
+                background-color: red;
+            }
+        }
+    }
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.phone_btn {
+    width: 150px;
+    height: 40px;
+    background-color: red;
+    border-color: white;
+    border: 10px;
+    border-radius: 10px;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    &:hover {
+        background-color: rgba(207, 12, 12, 0.712);
+    }
+    >img {
+        height: 30px;
+    }
+}
